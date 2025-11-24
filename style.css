@@ -1,7 +1,9 @@
 body {
     color:  BLUEVIOLET;
     background: blanchedalmond;
+    margin: 0px;
 }
+
 
 header {
     border-bottom: solid 2px blue;
